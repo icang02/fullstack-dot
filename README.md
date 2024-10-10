@@ -1,12 +1,13 @@
 # Admin Panel Project
 
 ## Deskripsi
-Project ini merupakan admin panel untuk manajemen data categories dan products dengan relasi one-to-many.
+Project ini merupakan admin panel untuk manajemen produk dengan relasi one-to-many.
 
 ## Database Design
 ![Design Tabel](public/img/skema-tabel.png)
 
 ## Screenshot
+<img src="public/img/ss1.png" alt="Alt text" width="200" />
 ![Screenshot Halaman Dashboard](public/img/ss1.png)
 ![Screenshot Halaman Kategori](public/img/ss2.png)
 ![Screenshot Halaman Produk](public/img/ss3.png)
