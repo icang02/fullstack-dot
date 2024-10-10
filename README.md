@@ -7,10 +7,9 @@ Project ini merupakan admin panel untuk manajemen produk dengan relasi one-to-ma
 ![Design Tabel](public/img/skema-tabel.png)
 
 ## Screenshot
-<img src="public/img/ss1.png" alt="Alt text" width="200" />
-![Screenshot Halaman Dashboard](public/img/ss1.png)
-![Screenshot Halaman Kategori](public/img/ss2.png)
-![Screenshot Halaman Produk](public/img/ss3.png)
+<img src="public/img/ss1.png" alt="Alt text" width="500" />
+<img src="public/img/ss2.png" alt="Alt text" width="500" />
+<img src="public/img/ss3.png" alt="Alt text" width="500" />
 
 ## Dependencies
 - Laravel 8
