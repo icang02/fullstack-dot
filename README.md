@@ -4,12 +4,12 @@
 Project ini merupakan admin panel untuk manajemen data categories dan products dengan relasi one-to-many.
 
 ## Database Design
-![Design Tabel](https://drive.google.com/file/d/1gsCWCvxhqgwbgMr8NkzFHcI8RbOY8mV8/view?usp=sharing)
+![Design Tabel](public/img/skema-tabel.png)
 
 ## Screenshot
-![Screenshot Halaman Dashboard](https://drive.google.com/file/d/1IKgYZhgf7ri-DsMoIbw4lBAyixMstBz9/view?usp=sharing)
-![Screenshot Halaman Kategori](https://drive.google.com/file/d/17cjGj9QpWVoF3Z_XsJrMAWbpZ6f60p0O/view?usp=sharing)
-![Screenshot Halaman Produk](https://drive.google.com/file/d/1oIaCgUu6v11PdA2ldbZ9jC-VrhVDC5v8/view?usp=sharing)
+![Screenshot Halaman Dashboard](public/img/ss1.png)
+![Screenshot Halaman Kategori](public/img/ss2.png)
+![Screenshot Halaman Produk](public/img/ss3.png)
 
 ## Dependencies
 - Laravel 8
